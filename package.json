@@ -1,0 +1,16 @@
+{
+  "name": "fullstack-todo-app",
+  "version": "0.0.1",
+  "description": "Todo App with full CRUD operations and DB connection built with vanilla Node.js and Javascript",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "^2.2.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Obidi CE",
+  "license": "ISC"
+}
