@@ -4,7 +4,7 @@
   "description": "Todo App with full CRUD operations and DB connection built with vanilla Node.js and Javascript",
   "main": "app.js",
   "dependencies": {
-    "mongodb": "^2.2.29"
+    "mongodb": "^3.6.1"
   },
   "devDependencies": {},
   "scripts": {
